@@ -1,0 +1,26 @@
+_repo: Wayside-Sketches-in-Tasmania_66275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wintle, S. H.
+    gutenberg_agent_id: '53723'
+    url: http://www.gutenberg.org/2009/agents/53723
+description: ''
+gutenberg_issued: '2021-09-12'
+identifiers:
+  gutenberg: '66275'
+language: en
+pgterms:marc905: 20210706180956wintle
+pgterms:marc906: '1880'
+pgterms:marc907: AU
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from scans of public domain works at The National Library
+  of Australia.)
+publication_note: Australia :H. Thomas,1880.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wayside Sketches in Tasmania
+url: http://www.gutenberg.org/ebooks/66275
